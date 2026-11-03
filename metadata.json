@@ -1,0 +1,6 @@
+{
+  "name": "Universal CFG to PDA Converter",
+  "description": "Convert arbitrary Context-Free Grammars (CFG) into equivalent single-state Pushdown Automata (PDA) with acceptance by empty stack, step-by-step transition tables, formal 6-tuple definitions, and nondeterministic string simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
